@@ -1,0 +1,9 @@
+D:\KanervaNN\KanervaNN\bin\Debug\KanervaNN.exe.config
+D:\KanervaNN\KanervaNN\bin\Debug\KanervaNN.exe
+D:\KanervaNN\KanervaNN\bin\Debug\KanervaNN.pdb
+D:\KanervaNN\KanervaNN\obj\Debug\KanervaNN.csprojAssemblyReference.cache
+D:\KanervaNN\KanervaNN\obj\Debug\KanervaNN.Form1.resources
+D:\KanervaNN\KanervaNN\obj\Debug\KanervaNN.Properties.Resources.resources
+D:\KanervaNN\KanervaNN\obj\Debug\KanervaNN.csproj.GenerateResource.cache
+D:\KanervaNN\KanervaNN\obj\Debug\KanervaNN.exe
+D:\KanervaNN\KanervaNN\obj\Debug\KanervaNN.pdb
